@@ -2,7 +2,7 @@
 Программа для автоматического подсчета губок на Cristalix SkyBlock.
   
 ## Установка для Windows
-  [Скачать](https://github.com/matswuuu/sponge_counter/archive/refs/tags/v0.0.1.zip), разархировать и запустить sponge_counter.exe
+  [Скачать](https://github.com/matswuuu/sponge_counter/releases/download/v0.0.1/sponge_counter.exe) и запустить sponge_counter.exe
  
 ### Установка для остальных платформ
   Для работы необходим [Python 3](https://www.python.org/downloads/), дополнительные библиотеки
